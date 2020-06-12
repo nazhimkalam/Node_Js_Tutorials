@@ -1,0 +1,28 @@
+<html lang="en">
+  <head>
+    <title>Document</title>
+    <style>
+      .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="flex">
+      <div><h1>You searched for: <%= data.userQuery %></h1></div>
+      <% if(data.loggedIn){ %>
+      <h3>You have logged in and your username is : <%= data.username%></h3>
+      <%}%>
+      <div>
+        <ul>
+          <% data.searchResult.forEach(result => { %>
+          <li><%= result %></li>
+          <%});%>
+        </ul>
+      </div>
+    </div>
+  </body>
+</html>

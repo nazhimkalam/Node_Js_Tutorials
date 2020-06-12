@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <title>Sign in</title>
+  </head>
+  <body>
+    <div class="form">
+      <form action="/SignForm" method="POST">
+        <div>
+          <label for="email">Email:</label><br />
+          <input type="text" id="email" size="30" name="email" />
+        </div>
+
+        <br />
+        <div>
+          <label for="password">Password:</label><br />
+          <input type="password" id="password" size="30" name="password" />
+        </div>
+
+        <br />
+        <div>
+          <button type="submit" class="submit">Submit</button>
+        </div>
+      </form>
+    </div>
+    <style>
+      .form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+        padding-top: 100px;
+      }
+      form {
+        border: 3px red solid;
+        padding: 40px;
+        border-radius: 40px;
+        transition: 0.3s ease-in;
+      }
+      form:hover {
+        border: 3px greenyellow solid;
+        transition: 0.3s ease-out;
+      }
+    </style>
+  </body>
+</html>

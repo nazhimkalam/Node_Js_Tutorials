@@ -1,0 +1,44 @@
+continued
+to flourish. The field’s expansion has taken two forms. The most
+obvious growth has involved the development of new and improved statistical
+learning approaches aimed at answering a range of scientific questions
+across a number of fields. However, the field of statistical learning has
+
+also expanded its audience. In the 1990s, increases in computational power
+generated a surge of interest in the field from non-statisticians who were
+eager to use cutting-edge statistical tools to analyze their data. Unfortunately,
+the highly technical nature of these approaches meant that the user
+
+community remained primarily restricted to experts in statistics, computer
+science, and related fields with the training (and time) to understand and
+implement them.
+In recent years, new and improved software packages have significantly
+
+eased the implementation burden for many statistical learning methods.
+At the same time, there has been growing recognition across a number of
+fields, from business to health care to genetics to the social sciences and
+beyond, that statistical learning is a powerful tool with important practical
+
+applications. As a result, the field has moved from one of primarily academic
+interest to a mainstream discipline, with an enormous potential audience.
+This trend will surely continue with the increasing availability of enormous
+quantities of data and the software to analyze it.
+
+The purpose of An Introduction to Statistical Learning (ISL) is to facilitate
+the transition of statistical learning from an academic to a mainstream
+field. ISL is not intended to replace ESL, which is a far more comprehensive
+text both in terms of the number of approaches considered and the
+
+depth to which they are explored. We consider ESL to be an important
+companion for professionals (with graduate degrees in statistics, machine
+learning, or related fields) who need to understand the technical details
+behind statistical learning approaches. However, the community of users of
+
+statistical learning techniques has expanded to include individuals with a
+wider range of interests and backgrounds. Therefore, we believe that there
+is now a place for a less technical and more accessible version of ESL.
+In teaching these topics over the years, we have discovered that they are
+
+of interest to master’s and PhD students in fields as disparate as business
+administration, biology, and computer science, as well as to quantitativelyoriented
+upper-division undergraduates. It is important for this diverse

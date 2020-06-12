@@ -1,0 +1,14 @@
+{
+  "student01": {
+    "name": "Nazhim",
+    "age": 18,
+    "gender": "male",
+    "status": "singleForever"
+  },
+  "student02": {
+    "name": "Shaahid",
+    "age": 18,
+    "gender": "male",
+    "status": "singleForever"
+  }
+}
